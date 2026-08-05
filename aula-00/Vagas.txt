@@ -1,0 +1,4 @@
+- Vaga: Backend Software Engineer (Latino Legends) -> Remoto (Período integral)
+- Linguagem: Clojure e ClojureScript
+- Salário: USD $6,000 - 9,000
+- Fonte: Linkedin
